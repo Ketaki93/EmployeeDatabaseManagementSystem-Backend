@@ -22,3 +22,12 @@ Visual Studio Code
 11. Execute 'ng serve' command to start the application.
 
 You can access the application on url **'http://localhost:4200/'**
+
+#API Implementation
+
+1. Get all Employees - **GET /employees**
+2. Get Employee By Id - **GET /employees/{empid}**
+3. Add Employee - **POST /employees**
+4. Edit Employee - **PUT /employees/{empid}**
+5. Get Managers for an Employee - **GET /employees/{empid}/managers**
+6. Get Reportees for an Employee - **GET /employees/{empid}/reportees**
