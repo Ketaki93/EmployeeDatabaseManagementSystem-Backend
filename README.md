@@ -1,6 +1,6 @@
 # Vmware Assignment - Employee Management System
 
-# Technology
+## Technology
 Java 8
 Spring Boot 2.2.1 (with Spring Web MVC, Spring Data JPA)
 MySQL
@@ -8,12 +8,12 @@ Maven 3.6.1
 STS tool
 Visual Studio Code
 
-# Setup
+## Setup
 1. Install Node and npm
 2. Install the Angular CLI for Angular 8
 3. Install Java 8
 4. Install MySQL 5.5
-5. Clone project from github url ''.
+5. Clone project from github url 'https://github.com/Ketaki93/EmployeeDatabaseManagementSystem-Backend.git'.
 6. Import springboot project 'EmployeeDatabaseManagementSystem' into STS.
 7. Create database 'employeedb' in mysql database;
 8. Right click and Execute the main class 'EmployeeDatabaseManagementSystemApplication.java' as a Spring boot application. The application will start on http://localhost:8080/
